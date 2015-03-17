@@ -1,0 +1,7 @@
+- Binary rtap file and folder selection feature implemented for loading.
+- Text file and folder selection feature implemented for human readable strings to be dumped.
+- Conversion function transferred from UI class to progress status thread class.
+- Progress status thread class implemented as an abstract of the UI class.
+- Conversion function dependent variables also transferred as private members of the thread class.
+- XML scripts able to accommodate different AN fibre type selection i.e. high or low spontaneous rate auditory fibres.
+- XML scripts able to accommodate sawtooth and pulse input specification.

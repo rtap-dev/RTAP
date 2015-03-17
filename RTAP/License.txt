@@ -1,0 +1,2 @@
+- JUCE is released under the GNU Public License.
+- Pthreads-win32 is distributed under the GNU Lesser General Public License (LGPL).

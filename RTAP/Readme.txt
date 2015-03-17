@@ -1,0 +1,2 @@
+- Copy the entire RTAP folder into \juce_3_0_1\JUCE-master\extras\. You may have to create a new folder and rename it.
+- RTAP manual is in \RTAP\Builds\VisualStudio2010\Release.
